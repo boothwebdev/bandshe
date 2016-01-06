@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js" >
+<head>
+    <meta charset="utf-8"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="format-detection" content="telephone=no" />
+
+    <title>Website Designer | Atlanta</title>
+
+    <link rel="canonical" href="http://www.codegreer.com/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="atlanta, website, websites, design, designer, developer, development" >
+    <meta name="description" content="Atlanta web designer handcrafting websites tailored for your specific needs.">
+
+<!-- Facebook -->
+    <meta property="og:title" content="Website Designer in Atlanta | Code Greer" >
+    <meta property="og:site_name" content="Code Greer">
+    <meta property="og:url" content="http://www.codegreer.com/" >
+    <meta property="og:description" content="Handcrafted websites distinctly designed for your business." >
+    <meta property="og:image" content="http://www.codegreer.com/images/fb_image.jpg">
+
+    <meta property="og:type" content="website" >
+    <meta property="og:locale" content="en_US" >
+
+<!-- Twitter -->
+    <meta property="twitter:card" content="summary" >
+    <meta property="twitter:title" content="Website Designer in Atlanta | Code Greer" >
+    <meta property="twitter:description" content="Handcrafted websites distinctly designed for your business." >
+    <meta property="twitter:creator" content="@codegreer" >
+    <meta property="twitter:url" content="http://www.codegreer.com/" >
+    <meta property="twitter:image" content="http://www.codegreer.com/images/tw_image.jpg" >
+    
+<!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    
+<!-- CSS -->
+	<link rel="stylesheet" href="css/style.min.css" />
+
+
+<!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700%7CVollkorn:400,700' rel='stylesheet' type='text/css'>
+
+<!-- Javascript -->  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.arctext.js"></script>
+    <script type="text/javascript" src="js/smoothscroll_min.js"></script> 
+    <script type="text/javascript" src="js/simple-expand.js"></script>
+    <script type="text/javascript" src="js/modernizr.custom.js"></script> 
+    <script type="text/javascript" src="js/toucheffects.js"></script>
+    
+</head>
+  
+<body> 
+    
+<!-- start my code -->
+    
+
+<!-- Container -->    
+<div id="container">
+                     
+<!-- Hidden Menu --> 
+    <div data-scroll-header id="hidden_menu"></div>    
+<!-- End Hidden Menu -->         
+    
+<!-- Top -->  
+    <div id="top">
+        <span class="line_1">&#9733;  This Is   &#9733;</span>
+        <span class="line_2">CodeGreer</span>
+        <span class="line_3"><span class="first_letter">H</span>andcrafted <span class="first_letter">W</span>ebsites</span>
+        <span class="line_4">Est.   &#9733;  2014</span>
+    </div>     
+<!-- End Top -->         
+         
+<!-- Menu --> 
+    <div id="static_menu">
+        <div data-scroll-header id="menu">    
+            <ul class="menu">
+                <li class="menu"><a data-scroll href="#home" class="menu">Home</a>
+                </li>
+                <li class="menu"><a data-scroll href="#about" class="menu">About</a>
+                </li>
+                <li class="menu"><a data-scroll href="#work" class="menu">Work</a>
+                </li>
+                <li class="menu"><a class="menu" href="contact.php">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>    
+<!-- End Menu -->      
+
+<!-- Home -->     
+    <div id="home">
+        <div id="home_left">
+                
+            <h2>You know your business</h2>
+            
+            <p>You're a business owner. A problem-solver. An innovator. You know your industry, you don’t go along with the crowd, and your clients love you for it. You care and are dedicated to getting it right. You've got this down. </p>
+            
+            <h2>You need a website</h2>
+            
+            <p>Where do you start? Who will design it? What will it cost? How much of your own productivity will you have to put into it? It's complicated and confusing, and you've only got so many hours in a day. You’ve got a business to run and clients to tend to. This is not where you want to put your attention.</p>
+            
+        </div>
+        
+        <div id="home_right">  
+            
+            <h2>This is where I come in</h2>
+            
+            <p>There are hundreds of details that go into building a website. But you don't have to worry about that, because I've streamlined the process to make it simple. And I'll answer your questions. All of them.</p>
+            
+            <h2>I know my business</h2>
+
+            <p>I'm a coder and I build websites. That's all I do. I've got this. Together we'll figure out what you need and how to fit it into your budget. And I'll guide you through every step from concept, to development, to launch. Together, we'll build exactly the site you, your business, and your clients need.</p>
+		 
+        </div> 
+        
+        <div id="home_bottom">
+            <h2 class="mobile_h2">Because you know your business. And I know mine. Perfect team, don't you think?</h2>
+            <button class="button button_style button_style_2 expander" data-expander-target="#contact_content"><span class="bigger"><span class="upper">L</span>et's get started</span></button>  
+        </div>
+    </div>    
+<!-- End Home --> 
+    
+<!-- Contact Form -->
+    <div id="contact_hidden">
+        <div id="contact_content">
+            
+               
+<!-- PHP for Contact Form -->  
+
+<!--
+	Free PHP Mail Form v2.4.4 - Secure single-page PHP mail form for your website
+	Copyright (c) Jem Turner 2007-2014
+	http://jemsmailform.com/
+
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	To read the GNU General Public License, see http://www.gnu.org/licenses/.
+-->
+
+                
+<!-- End PHP for Contact Form --> 
+                
+            <div id="rates_content">
+            <div class="rates_left_div">
+
+<!-- Contact Form -->
+                <form action="index.php" method="post" class="cg_form">
+                    <noscript>
+                        <p><input type="hidden" name="nojs" id="nojs" /></p>
+                    </noscript>
+                    <div class="cg_column name_and_email">
+                        <label for="name">Your Name</label>
+                        <input type="text" name="name" id="name" value="" placeholder="" required />
+                    </div>
+                    <div class="cg_column name_and_email">
+                        <label for="email">Your Email</label>
+                        <input type="text" name="email" id="email" value="" placeholder="" required />
+                    </div>
+                    <div class="cg_column tell_me_input">
+                        <label for="comments">How can I help you?</label>
+                        <textarea name="comments" id="comments" ></textarea>
+                    </div>
+                    <div class="cg_submit_wrap">
+                        <input type="submit" name="submit" id="submit" class="cg_submit" value="Send"  />
+                    </div>
+                </form>
+                
+                <p class="small_font">Powered by <a href="http://jemsmailform.com/">Jem</a></p>
+<!-- End Contact Form -->
+            </div>
+
+            <div class="rates_right_div">
+                <div id="rates">
+                    <ul>
+                        <li>My minimum project price is $1,680 for a new website up to four pages, including design and coding. I can give you a firm quote for larger or more complex projects. </li>
+                        <li>Want to update, change, or make your website mobile friendly? I can do that. Hourly rates apply.</li>
+                        <li>I build websites that work seamlessly on all mobile devices, are compatible with all browsers, and are coded to maximize search engine results and social media sharing.</li>
+                        <li>I do not write content or create graphics, but I can offer recommendations.</li>
+                        <li class="align">You can also call, <a class="alt_contact" href="tel:770-765-5303">770&ndash;765&ndash;5303</a><br> or email me, <a class="alt_contact" href="mailto:hello@codegreer.com" target="_top">hello@codegreer.com</a></li>
+                        <li>Find me on <a class="alt_contact" href="http://twitter.com/codegreer">Twitter</a> and <a class="alt_contact" href="http://www.linkedin.com/in/codegreer">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>                
+            </div>   
+        </div>
+    </div>
+<!-- End Contact Form -->
+    
+<!-- Testimonials -->
+    <p class="testimonial mobile"><a href="#" class="testimonial_link expander" data-expander-target="#testimonial_content">Read what clients say about my work.</a></p>
+    
+    <div id="testimonials_hidden">
+        <div id="testimonial_content">
+            <div class="test_left_div">
+                <p>"Finding a web designer is challenging for any small business. I was fortunate to have Sarah recreate a website for our business. Her communication was superb and it was obvious that she was interested in developing a long-term relationship with Blue Wire. Sarah paid attention to every detail of our design, layout, and welcomed our input and heard all of my concerns or recommendations. I will continue to use Code Greer to manage our site updates, and to create new features. I highly recommend Code Greer's web design for your business!"
+                </p>
+                <p class="test_right">- John Rucks, Owner</p>
+            </div>
+            
+            <div class="test_right_div">
+                <p>"I’m so pleased with the website Sarah built for my business. We didn’t have a designer and weren’t really settled on a particular design when we started. But Sarah was able to take many of my thoughts and ideas, make suggestions, and put them all together into a great design that works perfectly. It looks great on computers as well as tablets and phones. And she was really great to work with - very patient when we asked for changes, and always keeping us updated on progress. Every day when I look at our website I’m grateful I chose Code Greer, and would recommend Sarah to anyone who needs a website built."
+                </p>
+                <p class="test_right">- Cal Vollmer, Owner</p>
+            </div>   
+            
+            <div class="test_left_div">
+                <p>"I highly recommend Sarah's web development services. She is extremely talented and so easy to work with! Beginning with our initial meeting, she asked insightful questions, offered intelligent feedback, and anticipated aspects of the project before I did. Her email responses were prompt, courteous, and thorough. Sarah took the time to understand my business, and captured its essence and purpose beautifully. My site looks fantastic across phones, tablets, and computers - all devices and browsers I've tried. Sarah's enthusiasm for the project never waned; she was as energetic and committed at the end as she had been in our initial meeting."
+                </p>
+                <p class="test_right">- Paige Varner</p>
+            </div>      
+            
+            <div class="test_right_div">
+                <p>"I hired to Sarah to help me handle some JavaScript and jQuery on a freelance site, and we ended up becoming partners in crime on the whole project. She's a pro at finding the RIGHT solutions for clients' specific needs, and she's not afraid to dig for the answer or put in long hours to reach deadlines. She's the most reliable freelancer I've ever collaborated with, she's awesome at code, and she's also just a pleasure to work with. When the project was finished, I was sad that I wouldn't get to work with Sarah on a daily basis!"
+                </p>
+                <p class="test_right">- Randle Browning, Web Developer</p>
+            </div>   
+        </div>    
+    </div>   
+<!-- End Testimonials -->    
+    
+<!-- About -->  
+    <div id="about">
+        
+        <div id="about_left">
+            <h2>The crafting of a website</h2>
+            <p class="about">Have you noticed websites look fairly similar these days? Pretty boring, right? Your business is unique. Your site should be too. It should distinguish you from your competitors. That's the essence of what I do.</p>
+            
+            <p class="about">I build handcrafted websites tailored to your specific needs. I give them a personal touch. This is not a one-size-fits-all approach. It's not a template.</p>
+            
+            <p class="about">When built from scratch, a website develops it's own unique style. Colors, fonts, textures, and word structure set the tone. Design should say as much about your business as your content does.</p>
+            
+            <p class="about">Responsive design, how your site displays on all screens, from TVs to mobile phones, is an extension of that style. This is a priority. It's not enough to design around current technology. My goal is to ensure your website looks amazing now, and in the future.</p>
+            
+            <p class="about">The final touches are in accessibility and search engine optimization. I add captions for visual disabilities, check colors for proper contrast, choose font sizes for readability, and add code for better indexing in search engines and on social media.</p>
+            
+            <p class="about">This is a handcrafted website.</p>
+        </div>
+        
+        <div id="about_right">
+            <h2>Hi, I'm Sarah</h2>
+            <div id="frame">
+                 <figure>
+                    <img src="images/sarah.jpg" width="600" height="600" alt="Photo of Sarah Greer">
+                </figure>
+                <div id="about_anchor"></div>
+            </div> 
+            <br>
+            <p class="about">I'm a homeschooling mom of four by day and a web developer by night. It seems like a lot, but I'm living my dream life. In my spare time &#40;Yes, really!&#41; you can find me with my nose in a book or behind a camera. I also have an unabashed love for Synthpop, English Cricket, and vegan cookies. My family and I live in the Atlanta area.</p>
+            
+            <p class="about">I've been featured on a couple of blogs. Check out my <a class="about_link" href="http://www.joyceakiko.com/how-to-manage-time-while-learning-to-code-on-a-full-plate/">interview with Joyce Akiko</a> on learning to code with a full plate and my thoughts on <a class="about_link" href="http://skillcrush.com/2015/02/26/stop-guessing-yourself/">Imposter Syndrome</a> on the Skillcrush.</p>
+            
+        </div>
+        
+        <a href="contact.php"><button class="button button_style button_style_2"><span class="bigger"><span class="upper">W</span>ork with me</span></button></a> 
+    </div>    
+<!-- End About -->     
+       
+<!-- Work -->         
+    <div id="work"> 
+        
+        <h2>A selection of my work</h2>
+        
+        <ul class="grid cs-style-4">
+            <li>
+				<figure>
+				    <div><img src="projects/paigevarner.jpg" width="600" height="600" alt="Paige Varner's doula website screenshot"></div>
+				         <figcaption>
+							<h3>Paige Varner, Doula</h3>
+							<a href="http://www.birthcompanion.net/">Take a look</a>
+                            <p>Above all, Paige wanted a calm, well-organized site. We focused on clean design, elegant typography, and beautiful photos to achieve this serenity and simplicity.</p>  
+				         </figcaption>
+				</figure>
+            </li> 
+            <li>
+				<figure>
+				    <div><img src="projects/bluewirega.jpg" width="600" height="600" alt="Blue Wire, LLC's website screenshot"></div>
+				         <figcaption>
+							<h3>Blue Wire, LLC</h3>
+							<a href="http://www.bluewirega.com/">Take a look</a>
+                            <p>This client wanted a clear call to action and a simple layout. We used concise content that directs potential customers to contact him for further information.</p>  
+				         </figcaption>
+				</figure>
+            </li>
+            <li>
+                <figure>
+                    <div><img src="projects/teeitupforefun.jpg" width="600" height="600" alt="Tee It Up Fore Fun's website screenshot"></div>
+				         <figcaption>
+				            <h3>Tee It Up Fore Fun</h3>
+							<a href="http://www.teeitupforefun.com">Take a look</a>
+                            <p> A fun, informative website for both the new and established golfer. This site's focus was smooth navigation and a great mobile design. Content by <a class="panel_link" href="http://moreadsyou.blogspot.com/">Mo Reads You.</a></p>  
+				         </figcaption>
+				</figure>
+            </li>
+            <li>
+                <figure>
+				    <div><img src="projects/smithmag.jpg" width="600" height="600" alt="SmithMag's website screenshot"></div>
+				         <figcaption>
+							<h3>SMITH Magazine</h3>
+							<a href="http://www.smithmag.net">Take a look</a>
+                             <p>This was a collaborative effort with Randle of <a class="panel_link" href="http://www.randlebrowning.com/">RandleBrowning.com.</a><br> I added the Javascript and used a mobile-first approach to code the CSS to be fully responsive.</p>  
+				         </figcaption>
+				</figure>
+            </li> 
+            <li>
+				<figure>
+				    <div><img src="projects/christineaustin.jpg" width="600" height="600" alt="Christine Austin's website screenshot"></div>
+				         <figcaption>
+							<h3>Christine Austin</h3>
+							<a href="http://www.christineaustin.net">Take a look</a>
+                             <p>This campaign site went live in less than a week. For a quick turnaround, I collaborated with Amy, a web designer with <a class="panel_link" href="http://invisionsdesign.com/">Invisions Design.</a></p>  
+				         </figcaption>
+				</figure>
+            </li>    
+            <li>
+				<figure>
+				    <div><img src="projects/codegreer.jpg" width="600" height="600" alt="Code Greer's website screenshot"></div>
+				         <figcaption>
+							<h3>Code Greer</h3>
+							<a href="#">Take a look</a>
+                            <p>My labor of love. This is one project that may never be truly finished.  Code Greer is a chronicle of everything I've learned and love about web design and development.</p>  
+				         </figcaption>
+				</figure>
+            </li>
+        </ul>         
+    </div>   
+<!-- End Work -->
+
+</div>    
+<!-- End Container -->    
+    
+<div id="push"></div>
+       
+<!-- Footer -->      
+<div id="footer">
+        <ul class="contact">
+            <li><a href="http://twitter.com/codegreer">Twitter</a></li>
+            <li><a href="http://www.linkedin.com/in/codegreer">LinkedIn</a></li>
+            <li><a href="http://instagram.com/codegreer/">Instagram</a></li>
+            <li><a href="mailto:hello@codegreer.com" target="_top">Hello@codegreer.com</a></li>
+            <li><a href="tel:770-765-5303">770&ndash;765&ndash;5303</a></li>
+        </ul>
+        
+        <ul class="copyright">
+            
+            <li>Copyright &#169; 2014-2015, Code Greer</li>
+        </ul>
+    </div>  
+<!-- End Footer -->  
+    
+<!-- Javascript -->  
+    
+<!-- Arctext -->
+    <script>
+    
+    $(document).ready(function() {
+    $(".line_2").arctext({radius: 700});
+    });
+    </script>
+    
+<!-- SmoothScroll -->    
+    <script>
+        smoothScroll.init({
+            speed: 2000, // Integer. How fast to complete the scroll in milliseconds
+            offset: 0,
+            updateURL: false,
+            easing: 'easeInOutCubic', // Easing pattern to use
+            callbackBefore: function ( toggle, anchor ) {
+            },
+            callbackAfter: function ( toggle, anchor ) {
+                $('[data-scroll]').removeClass('active');
+                $(toggle).addClass('active');
+            }
+            });
+    </script>
+    
+    
+<!-- Touch Effects -->    
+    <script src="js/toucheffects.js"></script>
+    
+    
+<!-- StickyNav -->
+    
+    <script>
+            $(document).ready(function() {  
+    var stickyNavTop = $('#menu').offset().top;  
+      
+    var stickyNav = function(){  
+    var scrollTop = $(window).scrollTop();  
+           
+    if (scrollTop > stickyNavTop) {   
+        $('#menu').addClass('sticky');  
+    } else {  
+        $('#menu').removeClass('sticky');   
+    }  
+    };  
+      
+    stickyNav();  
+      
+    $(window).scroll(function() {  
+        stickyNav();  
+    });  
+    });  
+    </script>
+    
+<!-- Services Text Script    
+    <script>
+        $(".hide_text").on("click", function () {
+        $('.fade_out').animate({'opacity': 0}, 1500,       function () {
+        $(this).html('');  
+        }).animate({'opacity': 1}, 1000);    
+        });
+    </script>
+    
+    <script>
+        $(".mobile_hide_text").on("click", function () {
+        $('.mobile_fade_out').animate({'opacity': 0}, 1500,       function () {
+        $(this).html('');  
+        }).animate({'opacity': 1}, 1000);    
+        });
+    </script>  -->
+    
+<!-- Simple Expand Script -->   
+    
+    <script>
+         $(function () {
+            $('.expander').simpleexpand();
+        });
+    </script>  
+<!-- End Javascript -->          
+    
+</body> 
+</html>

@@ -1,0 +1,17 @@
+    
+}
+@media screen and (max-width:308px) {
+  #hero-image {
+    background-image: linear-gradient(rgba(92, 91, 91, 0.42), rgba(92, 91, 91, 0.42)), url("images/cover-bandshe-308.jpg");
+	 background-position: center center;
+  background-size: cover;
+  }
+ 
+}
+
+
+
+
+.hero {
+    
+}
