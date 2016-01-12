@@ -96,39 +96,61 @@ font-family: 'Love Ya Like A Sister', cursive;
   color: white
 }
 #line2 {
+
 font-family: 'Love Ya Like A Sister', cursive;
-  font-weight: 9500;
+  font-weight: 950;
   font-size: .75em;
   line-height: 1.0em; 
   letter-spacing: 0.2em;
-  color: gray;  
-    display:inline-block; 
-
+  color: gray;
 }
 
  /* Begin Navigation Bar Styling */
   #nav {
       width: 100%;
-      float: left;
+        float: left;
        margin: 0 auto;
       padding: 0;
       list-style: none;
+      
       }
-  #nav li {
-      float: right; }
-   #nav li a {
-      display: inline-block;
-      padding: 8px 15px;
-      text-decoration: none;
-      font-weight: bold;
-      color: white;
-       font-family: 'Philosopher', sans-serif;
-	font-size: 0.9em;
-       }
-   #nav li a:hover {
-      color: #c00;
-      background-color: #fff; }
-   /* End navigation bar styling. */
+
+
+#navigation ul { 
+    overflow: hidden; 
+    margin: 0; 
+    padding: 0;
+    list-style-type: none; 
+    float: right;  
+}
+
+ #navigation li { 
+     float: left; 
+     margin-bottom: 0;  
+     margin-right: 0.5em;
+    font-family: 'Philosopher', sans-serif; 
+    font-size: 1.2em;
+     display: inline-block;
+     
+}
+
+#navigation a { 
+    padding: 0.25em 0.5em; 
+    display: block; 
+    border: none; 
+    text-decoration: none; 
+    color: white;
+    font-family: 'Philosopher', sans-serif; }
+
+
+  
+   #navigation a:hover {
+      color: rgba(124, 43, 43, 0.9);
+      background-color: #fff;
+        border-radius: 4px;
+}
+
+   /* End navigation bar styling. */  
 
 body {	
 }
@@ -226,8 +248,50 @@ section.main aside {
     margin-right:auto;
 }
 
-#footer {
-	padding: 60px 0;
-    margin-top: 60px;
-	background-color: #cccccc;
+footer {
+    
+    background-image: linear-gradient(rgba(92, 91, 91, 0.30),    rgba(92, 91, 91, 0.30))
+;    color: gray;
+    font-size: 1.25em;
+    margin-top: 25px;
+    text-align: center;
+    padding: 50px;
+}
+
+footer a {
+    color: #888;
+    text-decoration: underline !important;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+footer p {
+    display: inline-block;
+    margin: 0 25px;
+}
+
+footer a:hover {
+    color: rgba(124, 43, 43, 0.9);
+}
+
+/* MEDIA QUERIES */
+
+
+
+@media (max--width: 1024px) {
+    ul {
+        width: 100%;
+        text-align: center; 
+    } 
+    #logo {
+        width: 100%;
+        text-align: center;
+        
+    }
+    
+}
+
+
+@media (max-width: 768px) {
+        
 }
